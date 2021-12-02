@@ -1,3 +1,6 @@
 [submodule "advent-of-code-2021"]
 	path = dreamsmasher
 	url = https://github.com/dreamsmasher/advent-of-code-2021.git
+[submodule "Advent2021"]
+	path = 3-Hz/Advent2021
+	url = https://github.com/3-Hz/Advent2021.git
